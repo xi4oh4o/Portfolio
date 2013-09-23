@@ -53,10 +53,12 @@ table {
     width: 100%;
 }
 
+/* #Me 
+-----------------------------------*/
 #me {
     padding-top: 70px;
     background-color: #ff6760;
-    height: 380px;
+    height: 260px;
     color: #fff;
 }
 
@@ -66,11 +68,15 @@ table {
 
 .xi4oh4o td {
     font-family: 'Lato',sans-serif;
+    width: 55%;
 }
 
 .xi4oh4o td h1 {
     font-size: 50px;
-    color: #eee;
+}
+
+.xi4oh4o td h2 {
+    font-size: 35px;
 }
 
 .xi4oh4o td p {
@@ -79,7 +85,26 @@ table {
 }
 
 .xi4oh4o td img {
-    width: 180px;
-    border-radius: 56px;
+    margin-left: 50px;
+    width: 160px;
+    border-radius: 80px;
     border: 3px solid #fff;
+}
+
+/* #About 
+-----------------------------------*/
+#about {
+    padding-top: 70px;
+    background-color: #3F5666;
+    height: 310px;
+    color: #C8C8A9;
+}
+
+.about {
+    text-align: center;
+}
+
+.about p {
+    margin: 5px 0;
+    font: 25px 'Lato',sans-serif;
 }
