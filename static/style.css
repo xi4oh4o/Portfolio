@@ -1,0 +1,85 @@
+@charset 'utf-8';
+/* designer by Howe */
+
+/* Global Style 
+-----------------------------------------*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    -webkit-text-size-adjust:none;
+    -webkit-font-smoothing:antialiased;
+    font-family: "Helvetica Neue","Luxi Sans","DejaVu Sans",Verdana,"Microsoft Yahei",Tahoma,"Hiragino Sans GB",STHeiti !important;
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+}
+
+img {
+    text-decoration: none;
+    border: none;
+}
+
+table {
+    border: none;
+    width: 100%;
+    border-collapse: collapse; 
+    border-spacing: 0;
+}
+
+/* custom size & color 
+----------------------------------*/
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.px_w50 {
+    width: 50px;
+    vertical-align: top;
+}
+
+/* container 
+-----------------------------------*/
+#container {
+    width: 100%;
+}
+
+#me {
+    padding-top: 70px;
+    background-color: #ff6760;
+    height: 380px;
+    color: #fff;
+}
+
+.xi4oh4o {
+    text-align: center;
+}
+
+.xi4oh4o td {
+    font-family: 'Lato',sans-serif;
+}
+
+.xi4oh4o td h1 {
+    font-size: 50px;
+    color: #eee;
+}
+
+.xi4oh4o td p {
+    font-size: 16px;
+    color: #eee;
+}
+
+.xi4oh4o td img {
+    width: 180px;
+    border-radius: 56px;
+    border: 3px solid #fff;
+}
