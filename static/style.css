@@ -91,13 +91,20 @@ table {
     border: 3px solid #fff;
 }
 
-/* #About 
------------------------------------*/
-#about {
+/* Old Color
     padding-top: 70px;
     background-color: #3F5666;
     height: 310px;
     color: #C8C8A9;
+------------*/
+
+/* #About 
+-----------------------------------*/
+#about {
+    padding-top: 70px;
+    background-color: #fff;
+    height: 310px;
+    color: #333;
 }
 
 .about {
@@ -108,3 +115,48 @@ table {
     margin: 5px 0;
     font: 25px 'Lato',sans-serif;
 }
+
+/* #Skills
+------------------------------------*/
+#skills {
+    padding-top: 70px;
+    background-color: #57b3b4;
+    height: 310px;
+    color: #fff;
+}
+
+.skills {
+    text-align: right;
+    margin-right: 20px;
+    font: 28px 'Lato';
+}
+
+.tools {
+    text-align: right;
+    margin-right: 20px;
+    font: 28px 'Lato';
+}
+
+/* #Contact
+------------------------------------*/
+#contact {
+    padding-top: 70px;
+    background-color: #E5EDB6;
+    height: 310px;
+    color: #44A18E;
+}
+
+.contact {
+    text-align: left;
+    margin-left: 20px;
+    font: 26px 'Lato';
+}
+
+.contact p {
+    margin: 10px;
+}
+
+.contact a {
+    color: #44A18E;
+}
+
