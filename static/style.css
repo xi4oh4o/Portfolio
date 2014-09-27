@@ -56,9 +56,8 @@ table {
 /* #Me 
 -----------------------------------*/
 #me {
-    padding-top: 70px;
+    padding: 70px 0 70px 0;
     background-color: #ff6760;
-    height: 260px;
     color: #fff;
 }
 
@@ -93,19 +92,11 @@ table {
     border: 3px solid #fff;
 }
 
-/* Old Color
-    padding-top: 70px;
-    background-color: #3F5666;
-    height: 310px;
-    color: #C8C8A9;
-------------*/
-
 /* #About 
 -----------------------------------*/
 #about {
-    padding-top: 70px;
+    padding: 70px 0 70px 0;
     background-color: #fff;
-    height: 310px;
     color: #333;
 }
 
@@ -123,9 +114,8 @@ table {
 /* #Skills
 ------------------------------------*/
 #skills {
-    padding-top: 70px;
+    padding: 70px 0 70px 0;
     background-color: #57b3b4;
-    height: 310px;
     color: #fff;
 }
 
@@ -146,9 +136,8 @@ table {
 /* #Contact
 ------------------------------------*/
 #contact {
-    padding-top: 70px;
+    padding: 70px 0 70px 0;
     background-color: #E5EDB6;
-    height: 310px;
     color: #44A18E;
 }
 
@@ -176,10 +165,6 @@ body {
 
 /* #Me
 --------------------------*/
-#me {
-    padding-top: 50px;
-    height: 180px;
-}
 
 #me .xi4oh4o td h1 {
     font-size: 1.7em;
@@ -197,24 +182,22 @@ body {
 /* #About
 ------------------------------- */
 #about {
-    padding-top: 50px;
-    height: 180px;
+    padding: 50px 0 50px 0;
 }
 
-.about p {
-    margin: 5px 0;
-    font-size: .6em;
+.about p,span {
+    margin: 7px 0;
+    font-size: .8em;
 }
 
 /* #Skills
 --------------------------------- */
 #skills {
-    padding-top: 50px;
-    height: 150px;
+    padding: 50px 0 50px 0;
 }
 
 .skills {
-    font-size: .7em;
+    font-size: .8em;
 }
 
 .tools {
@@ -224,8 +207,7 @@ body {
 /* #Contact
 ---------------------------------- */
 #contact {
-    padding-top: 50px;
-    height: 150px;
+    padding: 50px 0 50px 0;
 }
 
 .contact {
